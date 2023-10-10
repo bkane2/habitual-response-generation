@@ -1,0 +1,20 @@
+<user> is having a conversation with <sys>.
+
+Background for <user>:
+<dial-schema-facts-user>
+
+Background for <sys>:
+<dial-schema-facts-sys>
+
+Rewrite the sentences marked with [ORIGINAL] as [REWRITTEN]. Use a set of relevant facts in your rewritten responses, but DO NOT change the meaning of the original sentence.
+
+<examples>
+
+Relevant facts:
+<habitual-facts>
+
+<history-para>
+Person B [ORIGINAL]: <sentence>
+
+<history>
+<sys> [REWRITTEN]:

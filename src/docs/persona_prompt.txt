@@ -1,0 +1,4 @@
+Generate <n> personal facts about <agent> related to the topic "<topic>". Use personal pronouns such as "I" instead of third person pronouns like "he" or "she". Each sentence should contain exactly one fact; if a fact uses "and", break it into two separate facts.
+
+The generated facts should be consistent with the following persona:
+<persona>

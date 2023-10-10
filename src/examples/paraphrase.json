@@ -1,0 +1,20 @@
+[
+  {
+    "facts" : ["I like to travel.", "I enjoy visiting new places.", "I like to explore the local cultures at the locations I visit.", "I visit a new place each year.", "I try to see all the sights."],
+    "context" : ["Hello.", "It's nice to meet you."],
+    "utterance" : "Nice to meet you too. Where are you from?",
+    "paraphrase" : "It's nice to meet you as well. I live in Brazil, but I like to travel the world. I enjoy finding new places and cultures. I pick a country to go to each year and try to see all the sights. Can you tell me a bit more about where you're from?"
+  },
+  {
+    "facts" : ["I ski often.", "I'm at a location where I can go skiing.", "I take the chairlift to the top of the mountain.", "There is powder snow to ski in.", "I make turns downhill.", "I have a lot of fun going down the mountain."],
+    "context" : ["It's nice to meet you too!", "What hobbies do you do for fun?", "I'm pretty into skiing."],
+    "utterance" : "Do you like video games?",
+    "paraphrase" : "That's awesome! I'm actually really into skiing as well. Just last year I went skiing in Utah, which was a lot of fun. I took the chairlift to the top of the mountain and then carved some nice turns through the powder. What are some other types of activities you like? Do you like playing video games?"
+  },
+  {
+    "facts" : ["I play with trains.", "I have a train set.", "I put together the train set.", "I put the train on the track.", "The train does loops around the track."],
+    "context" : ["I like to build doll houses."],
+    "utterance" : "That's cool. I like to play with trains.",
+    "paraphrase" : "Building doll houses sounds really cool! Personally I like to play with trains. I have some train sets, and I like to put them together. I'll put the train on the track and let it make loops around the track."
+  }
+]

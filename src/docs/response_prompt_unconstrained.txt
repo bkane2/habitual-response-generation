@@ -1,0 +1,12 @@
+Write a conversation between <user> and <sys>.
+
+Background for <user>:
+<dial-schema-facts-user>
+
+Background for <sys>:
+<dial-schema-facts-sys>
+
+Use all of the following facts about <sys> in your response:
+<habitual-facts>
+
+<history>

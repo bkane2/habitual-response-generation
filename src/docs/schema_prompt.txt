@@ -1,0 +1,19 @@
+Given a passage describing a habitual event, generate a schema consisting of the following sections. Use a first person subject for the event section.
+
+:event
+[subject] [verb] [arguments]
+
+:preconditions
+[a list of conditions that must occur before the event]
+
+:static-conditions
+[a list of conditions that hold throughout the event]
+
+:postconditions
+[a list of conditions that hold after the event]
+
+:goals
+[a list of goals for all agents involved in the event]
+
+:episodes
+[a list of steps that occurred during this event]

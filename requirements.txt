@@ -1,0 +1,7 @@
+numpy
+openai
+backoff
+transformers
+datasets
+requests
+sentence_transformers

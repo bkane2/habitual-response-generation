@@ -1,0 +1,32 @@
+:event
+- My grandmother used to bake pies on Saturdays.
+
+:preconditions
+- It is Saturday.
+- My grandmother has collected the ingredients to make a pie.
+
+:static-conditions
+- My grandmother has the equipment to bake a pie.
+- My grandmother knows how to bake pies.
+
+:postconditions
+- Pies have been baked.
+- I have received pies.
+
+:goals
+- My grandmother's goal is to bake pies for me.
+- My goal is to receive pies from my grandmother.
+
+:episodes
+- My grandmother goes to the orchard on Shady Lane.
+- My grandmother picks a basket of apples and peaches.
+- My grandmother goes into the kitchen.
+- My grandmother prepares ingredients for the pies.
+- My grandmother mixes the ingredients together to form the cookie dough.
+- My grandmother shapes the dough into individual cookie shapes.
+- My grandmother places the pies on a baking sheet.
+- My grandmother puts the baking sheet in the oven to bake.
+- An irresistible aroma wafts through my house.
+- My grandmother removes the pies from the oven when they are done baking.
+- My grandmother allows the pies to cool on the baking sheet.
+- My grandmother gives the pies to me.
